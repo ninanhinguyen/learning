@@ -19,3 +19,5 @@ PASSING DATA TO COMPONENT
 - React component use <strong> props <strong/> to communicate with each other
 - Props might remind you of HTML attributes but you can pass any JavaScript value through them (objects, arrays, functions)
 - Every parent component can pass some information to its child components by giving them props
+<strong>First letter of React component names must be capitalized<strong/>
+§
