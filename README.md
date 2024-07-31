@@ -20,4 +20,9 @@ PASSING DATA TO COMPONENT
 - Props might remind you of HTML attributes but you can pass any JavaScript value through them (objects, arrays, functions)
 - Every parent component can pass some information to its child components by giving them props
 <strong>First letter of React component names must be capitalized<strong/>
-§
+
+#JavaScript
+- node.js is a javascript run time environment
+- Possible to write javascript code into console Node
+<strong>variables</strong>
+- CONST: The const declaration declares block-scoped local variables. The value of a constant can't be changed through reassignment using the assignment operator, but if a constant is an object, its properties can be added, updated, or removed.
